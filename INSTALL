@@ -1,0 +1,9 @@
+Building Harrier
+
+See doc/readme-qt.rst for instructions on building Harrier-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Harrier.
+
+See doc/build-*.txt for instructions on building harrierd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Harrier.
